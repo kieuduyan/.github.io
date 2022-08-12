@@ -11,10 +11,7 @@
 
   <a href="https://www.facebook.com/duya.376043" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
+  </a>  
   <a href="mailto:kieuduyan.udpmk11@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
