@@ -19,7 +19,7 @@
   <a 
 href="https://github.com/kieuduyan/github.io"
 alt="Github">
-    <img src="https://img.icons8.com/fluency-systems-filled/512/github.png"/>
+    <img src=...."/>
 </p>
 
 ## Skills:
