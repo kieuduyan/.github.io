@@ -19,7 +19,7 @@
   <a 
 href="https://github.com/kieuduyan/github.io"
 alt="Github">
-    <img src="https://icons8.com/icon/60956/anonymous-mask"/>
+    <img src="https://img.icons8.com/ios-filled/2x/github.png"/>
 </p>
 
 ## Skills:
