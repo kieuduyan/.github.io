@@ -6,7 +6,7 @@
 - 🌱 I am currently a software engineer at https://corp.funtap.vn/vi
 - 🌱 I am currently a software engineer at https://www.fpt-software.com/?mibextid=Zxz2cZ
 
-## 📫 How to reach me:duy an 
+## 📫 How to reach me:))))
 
 [![Join the chat at https://github.com/kieuduyan]
 
