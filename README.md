@@ -52,7 +52,7 @@ alt="Github">
   </tr>
 </table>
 
-# Certificates: hâhhahhaa
+# Certificates:
 
 <p align="center">
 </p>
