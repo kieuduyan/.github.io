@@ -4,7 +4,7 @@
 
 - ✍ I'm a student of: [hanoi high-tech vocational college] (http://hht.edu.vn/) (HHT) & https://fsoft-academy.edu.vn/?mibextid=Zxz2cZ @
 - 🌱 I am currently a software engineer at https://corp.funtap.vn/vi
-- 🌱 I am currently a software engineer at https://www.fpt-software.com/?mibextid=Zxz2cZ
+- 🌱 I am currently a Senior Mobile Developer at https://www.fpt-software.com/?mibextid=Zxz2cZ
 
 ## 📫 How to reach me:))))
 
