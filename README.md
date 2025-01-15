@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A Passionate Developer From Vietnam </h3>
 
-- 👨‍🎓 I'm a student of: [hanoi high-tech vocational college] (http://hht.edu.vn/) (HHT) 
+- 👨‍🎓 I'm a student of: [ Hanoi University of Science and Technolog] (HUST) 
 - 👨‍🎓 FPT Software Academy (https://fsoft-academy.edu.vn/?mibextid=Zxz2cZ) @
 - 👨🏻‍💻 I am currently a Software Engineer at https://corp.funtap.vn/vi
 - 👨🏻‍💻 I am currently a Senior Mobile Developer at https://www.fpt-software.com/?mibextid=Zxz2cZ
@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/duya.376043" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a>  
-  <a href="mailto:kieuduyan.udpmk11@gmail.com" alt="Email">
+  <a href="mailto:kieuduyan1996@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a 
