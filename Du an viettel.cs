@@ -7,12 +7,15 @@ namespace TestC#
         {
             int[] arrl = new int[l0];
             int i,n,p = 0,phan_tu_moi;
+            int p,n,i = 0,phan_tu_dao_nguoc;
             Console.Write("\nChen phan tu vao mang trong C#:\");
              Console.Write("\nChen phan tu vao mang trong\");
              Console.Write("Nhap kich co mang:");
+                Console.WriteLine("ket qua ptu ve 0:")
              n = Convert.Tolnt32(Console.Readline());
              /* nhap cac phan tu vao trong mang*/
              Console.Write("Nhap{0} phan tu vao mang theobthu tu tang dan:\n".n);
+                /* nhap cac phan tu theo thu tu*/
              for (i = 0; i < n; i++)
              {
                  Console.Write("Phan tu  -{0}:" i);
