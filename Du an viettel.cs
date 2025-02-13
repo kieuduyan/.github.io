@@ -113,6 +113,21 @@ static void Main(string[]args)
                 //chia hàm đó ra làm 2 mảng phân theo chia khi ta phân tích các mô quy theo ưc lượng hàm của nó 
             } 
         }
+Oc 001001001#
+in (console write) 
+<div>
+ <div class="DL">
+ <!-- list header -->
+ <details class="LH">
+ <summary>  //001 Projects //001 </summary>
+ </details>
+ <body>/<body> 
+ <div class="Oc001#">;
+ <ul>
+   Console.Write();
+      Console.WriteLine();
+in/out 001/001#001
+</ul>
 
     }
 }
